@@ -3,11 +3,13 @@
 This repository is for showing how Git and GitHub work
 
 ## Purpose
+As stated above, the main purpose is to provide simple examples for GIT training.
+
 
 Sample website with plenty of files for demos
 
 ## Deployment
-How to Deploy a web project
+This is a simple web project, deployment can be on any web server or local file system.
 
 ## How to Contribute
 
