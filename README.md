@@ -14,3 +14,7 @@ This is a simple web project, deployment can be on any web server or local file 
 ## How to Contribute
 
 ## Description
+
+
+###Copywrite
+2014 git.training
